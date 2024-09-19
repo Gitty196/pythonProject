@@ -24,7 +24,7 @@ List key features such as disorder descriptions, user input, processing, and cha
 #Ensure RE library is installed
 
 #Clone the repository
-git clone https://github.com/username/repository.git
+git clone https://github.com/Gitty196/pythonProject
 pip install -r requirements.txt
 ```
 # Feedback and Contributions: 🙌
